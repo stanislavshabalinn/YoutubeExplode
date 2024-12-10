@@ -12,5 +12,4 @@ namespace YoutubeExplode
         public abstract void Run();
         public abstract void Cancel();
     }
-
 }
